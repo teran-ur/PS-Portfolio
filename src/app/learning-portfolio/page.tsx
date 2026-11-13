@@ -54,7 +54,7 @@ export default function LearningPortfolioPage() {
         </h1>
 
         <p className="text-base sm:text-lg text-[#686868] max-w-3xl font-sans leading-relaxed">
-          Comprehensive synthesis across all nine foundational modules of the Professional Skills curriculum led by Senior Lecturer Mrs. Ishara Raviharee Weerasinghe. Every chapter bridges rigorous theoretical frameworks with experiential reflections connecting to software development, entrepreneurship, and leadership.
+          Comprehensive synthesis across all nine foundational modules of the Professional Skills curriculum led by Mrs. Ishara Raviharee Weerasinghe (Lecturer In Charge). Every chapter bridges rigorous theoretical frameworks with experiential reflections connecting to software development, entrepreneurship, and leadership.
         </p>
 
         {/* Candidate & Module Meta Strip */}

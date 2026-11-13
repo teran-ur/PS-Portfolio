@@ -24,11 +24,8 @@ import {
   Shield,
   Smartphone,
   Globe,
-  FileText,
   Sliders,
-  Sparkles,
   Target,
-  Terminal,
   ArrowRight,
   ArrowUpRight,
   Waves,
@@ -117,7 +114,7 @@ export default function ProjectsPage() {
         </div>
 
         <p className="text-base sm:text-lg text-[#555555] font-sans max-w-3xl leading-relaxed">
-          An authentic catalogue of technologies I work with and four software, cloud, and security projects. Below is a transparent breakdown of objectives, my specific involvement, challenges encountered, engineered resolutions, and verifiable proofs.
+          An authentic catalogue of technologies I work with and four software, cloud, and security projects. Below is a transparent breakdown of objectives, my specific involvement, challenges encountered, and engineered resolutions.
         </p>
 
         {/* Quick Nav Anchors */}
@@ -421,62 +418,6 @@ export default function ProjectsPage() {
                             </div>
                           ))}
                         </div>
-                      </div>
-                    </div>
-
-                    {/* Screenshots & Terminal Status Evidence */}
-                    <div className="p-8 rounded-2xl bg-white border border-[#E5E5E2] shadow-subtle space-y-6">
-                      <div className="flex items-center justify-between pb-3 border-b border-[#E5E5E2]">
-                        <div className="flex items-center space-x-2">
-                          <FileText className="w-4 h-4 text-[#FF6B35]" />
-                          <h4 className="text-xs font-mono uppercase tracking-wider text-[#171717] font-bold">
-                            Screenshots &amp; Supporting Evidence
-                          </h4>
-                        </div>
-                        <span className="text-xs font-mono text-[#8E8E93]">
-                          {project.evidence.length} Catalogued Artefacts
-                        </span>
-                      </div>
-
-                      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                        {project.evidence.map((ev, evIdx) => (
-                          <div
-                            key={evIdx}
-                            className="p-5 rounded-2xl bg-[#F7F7F5] border border-[#E5E5E2] flex flex-col justify-between space-y-4"
-                          >
-                            <div className="space-y-2">
-                              <div className="flex items-center justify-between">
-                                <span className="text-[10px] font-mono uppercase tracking-wider text-[#FF6B35] px-2.5 py-0.5 rounded-full bg-white border border-[#E5E5E2] font-bold">
-                                  {ev.type}
-                                </span>
-                                <span className="text-xs font-mono text-[#8E8E93]">
-                                  0{evIdx + 1}
-                                </span>
-                              </div>
-                              <h5 className="text-sm font-display font-bold text-[#171717]">
-                                {ev.caption}
-                              </h5>
-
-                              {/* Terminal Status Evidence Block */}
-                              <div className="p-4 rounded-xl bg-[#171717] text-white border border-black space-y-1.5 font-mono text-center">
-                                <div className="flex items-center justify-center space-x-1.5 text-xs text-[#FF6B35] font-semibold">
-                                  <Terminal className="w-3.5 h-3.5" />
-                                  <span>{ev.placeholderText}</span>
-                                </div>
-                                {ev.note && (
-                                  <span className="text-[10px] text-[#A5A5AA] block">
-                                    {ev.note}
-                                  </span>
-                                )}
-                              </div>
-                            </div>
-
-                            <div className="pt-2 border-t border-[#E5E5E2] text-[10px] font-mono text-[#8E8E93] flex items-center justify-between">
-                              <span>Verified Artefact</span>
-                              <span className="text-[#FF6B35]">Editable Slot</span>
-                            </div>
-                          </div>
-                        ))}
                       </div>
                     </div>
 

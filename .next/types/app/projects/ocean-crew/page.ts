@@ -1,4 +1,4 @@
-// File: C:\Users\stunt\Downloads\PS Portfolio\src\app\projects\ocean-crew\page.tsx
+// File: C:\Users\HP\Downloads\PS Portfolio\PS-Portfolio\src\app\projects\ocean-crew\page.tsx
 import * as entry from '../../../../../src/app/projects/ocean-crew/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

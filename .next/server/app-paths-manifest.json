@@ -1,13 +1,7 @@
 {
-  "/about/page": "app/about/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/evidence/page": "app/evidence/page.js",
-  "/projects/ocean-crew/page": "app/projects/ocean-crew/page.js",
   "/learning-portfolio/page": "app/learning-portfolio/page.js",
-  "/projects/page": "app/projects/page.js",
   "/page": "app/page.js",
-  "/acknowledgement/page": "app/acknowledgement/page.js",
-  "/chapters/[slug]/page": "app/chapters/[slug]/page.js",
-  "/references/page": "app/references/page.js",
-  "/reflections/page": "app/reflections/page.js"
+  "/reflections/page": "app/reflections/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/chapters/[slug]/page": "app/chapters/[slug]/page.js"
 }

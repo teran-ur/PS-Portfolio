@@ -324,7 +324,7 @@ export const CHAPTER_PERSONAL_SYNTHESIS: Record<string, ChapterPersonalSynthesis
         activityTitle: "Academic Communication with University Faculty & Lecturers In Charge",
         activityType: "Academic (SLIIT City Uni)",
         description:
-          "Submitting assignment queries, project documentation drafts, and viva coordination emails to Senior Lecturer Mrs. Ishara Raviharee Weerasinghe and faculty instructors using proper salutations, contextual hooks, and professional signature blocks.",
+          "Submitting assignment queries, project documentation drafts, and viva coordination emails to Mrs. Ishara Raviharee Weerasinghe (Lecturer In Charge) and faculty instructors using proper salutations, contextual hooks, and professional signature blocks.",
       },
       {
         activityTitle: "Corporate Correspondence with Clients & Stakeholders",

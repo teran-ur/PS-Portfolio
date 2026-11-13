@@ -174,7 +174,7 @@ export const STUDENT_PROFILE: StudentProfile = {
       status: "In Progress",
       type: "Higher Education",
       description:
-        "Currently in Year 2 Semester 2 of the HDIT program. Studying software engineering, database systems, networking, and the nine-pillar Professional Skills curriculum led by Senior Lecturer Mrs. Ishara Raviharee Weerasinghe.",
+        "Currently in Year 2 Semester 2 of the HDIT program. Studying software engineering, database systems, networking, and the nine-pillar Professional Skills curriculum led by Mrs. Ishara Raviharee Weerasinghe (Lecturer In Charge).",
       highlights: [
         "Coursework: Software Engineering, Database Systems, Web Development, Computer Security",
         "Professional Skills: Johari self-awareness, meeting governance, job interviews, viva defense",

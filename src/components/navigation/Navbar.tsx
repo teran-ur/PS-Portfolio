@@ -63,15 +63,10 @@ export default function Navbar() {
             <span className="w-9 h-9 rounded-xl bg-[#171717] text-white flex items-center justify-center font-display font-extrabold text-sm tracking-tight group-hover:bg-[#FF6B35] transition-colors shadow-subtle">
               TR
             </span>
-            <div className="flex flex-col">
-              <span className="font-display font-bold text-sm text-[#171717] tracking-tight group-hover:text-[#FF6B35] transition-colors flex items-center gap-1">
-                {STUDENT_PROFILE.fullName}
-                <span className="text-[#FF6B35] font-black text-xs">●</span>
-              </span>
-              <span className="text-[11px] text-[#686868] font-sans">
-                Professional Skills E-Portfolio
-              </span>
-            </div>
+            <span className="font-display font-bold text-sm text-[#171717] tracking-tight group-hover:text-[#FF6B35] transition-colors flex items-center gap-1">
+              {STUDENT_PROFILE.fullName}
+              <span className="text-[#FF6B35] font-black text-xs">●</span>
+            </span>
           </Link>
 
           {/* Desktop Navigation Links */}
@@ -169,16 +164,6 @@ export default function Navbar() {
               )}
             </div>
           </nav>
-
-          {/* Academic Badge Pill on Desktop */}
-          <div className="hidden xl:flex items-center pl-4 border-l border-[#E5E5E2]">
-            <div className="flex items-center space-x-2 text-xs bg-white px-3.5 py-1.5 rounded-full border border-[#E5E5E2] shadow-subtle">
-              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-              <span className="font-semibold text-[#171717]">SLIIT City Uni</span>
-              <span className="text-[#8E8E93]">•</span>
-              <span className="text-xs font-mono text-[#686868]">HDIT Y2S2</span>
-            </div>
-          </div>
 
           {/* Mobile Menu Button */}
           <div className="flex lg:hidden">

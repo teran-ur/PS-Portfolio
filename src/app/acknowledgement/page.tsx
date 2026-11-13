@@ -6,7 +6,7 @@ import { FadeIn } from "@/components/motion/MotionWrapper";
 
 export const metadata = {
   title: "Academic Acknowledgement | Professional Skills E-Portfolio",
-  description: "Formal academic acknowledgement honoring Senior Lecturer Mrs. Ishara Raviharee Weerasinghe and faculty.",
+  description: "Formal academic acknowledgement honoring Lecturer In Charge Mrs. Ishara Raviharee Weerasinghe and faculty.",
 };
 
 export default function AcknowledgementPage() {
@@ -52,12 +52,12 @@ export default function AcknowledgementPage() {
             </div>
 
             <h2 className="text-2xl sm:text-3xl md:text-4xl font-display font-bold text-[#171717] tracking-tight">
-              To Senior Lecturer <br />
+              To Lecturer In Charge <br />
               <span className="text-[#FF6B35]">Mrs. Ishara Raviharee Weerasinghe</span>
             </h2>
 
             <blockquote className="text-lg sm:text-xl font-serif italic text-[#171717] leading-relaxed pl-4 border-l-2 border-[#FF6B35]">
-              &ldquo;I would like to extend my deepest academic gratitude to Mrs. Ishara Raviharee Weerasinghe, Senior Lecturer in English and our Lecturer In Charge, for her inspiring guidance, structured curriculum frameworks, and dedicated encouragement throughout this semester.&rdquo;
+              &ldquo;I would like to extend my deepest academic gratitude to Mrs. Ishara Raviharee Weerasinghe, our Lecturer In Charge, for her inspiring guidance, structured curriculum frameworks, and dedicated encouragement throughout this semester.&rdquo;
             </blockquote>
 
             <p className="text-sm sm:text-base text-[#686868] leading-relaxed font-sans">
@@ -66,8 +66,8 @@ export default function AcknowledgementPage() {
 
             <div className="pt-6 border-t border-[#E5E5E2] flex flex-wrap items-center justify-between gap-4 text-xs font-mono text-[#8E8E93]">
               <div className="space-y-0.5">
-                <span className="text-[#FF6B35] font-bold block">Senior Lecturer in English</span>
-                <span>Lecturer In Charge for Professional Skills</span>
+                <span className="text-[#FF6B35] font-bold block">Lecturer In Charge</span>
+                <span>Professional Skills Academic Module</span>
               </div>
               <div className="text-right">
                 <span className="text-[#171717] font-medium block">SLIIT City Uni</span>

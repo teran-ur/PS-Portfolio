@@ -14,7 +14,7 @@ const GIBBS_STAGES = [
     step: "01",
     stage: "Description",
     question: "What occurred during the Professional Skills semester?",
-    reflection: "Engaged in 9 intensive modules covering Johari self-awareness, mock interviews, formal meeting facilitation, customer telephone de-escalation, emotional neurobiology, and executive dining protocols under Senior Lecturer Mrs. Ishara Raviharee Weerasinghe at SLIIT City Uni.",
+    reflection: "Engaged in 9 intensive modules covering Johari self-awareness, mock interviews, formal meeting facilitation, customer telephone de-escalation, emotional neurobiology, and executive dining protocols under Mrs. Ishara Raviharee Weerasinghe (Lecturer In Charge) at SLIIT City Uni.",
     insight: "Experiential immersion proved that technical skills alone cannot navigate human systems.",
   },
   {
