@@ -97,7 +97,7 @@ export default function ProjectObjectives() {
                     isHighlight ? "border-white/10 text-[#14B8A6]" : "border-[#E5E5E2] text-[#8E8E93]"
                   }`}
                 >
-                  Documented In Project Report
+                  Key Project Objective
                 </div>
               </FadeIn>
             );

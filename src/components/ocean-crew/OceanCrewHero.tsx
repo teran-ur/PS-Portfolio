@@ -82,7 +82,7 @@ export default function OceanCrewHero() {
                 <div className="absolute bottom-6 left-6 right-6 flex flex-col sm:flex-row sm:items-end justify-between gap-3 text-white">
                   <div className="space-y-1">
                     <span className="text-[10px] font-mono uppercase tracking-widest px-2.5 py-0.5 rounded bg-[#FF6B35] font-bold inline-block">
-                      Primary Documentary Evidence
+                      Field Photography
                     </span>
                     <h2 className="text-lg sm:text-xl font-display font-bold">
                       Ocean Crew Group at the Sanctuary
@@ -123,7 +123,7 @@ export default function OceanCrewHero() {
                       <span className="font-bold text-[#171717] font-mono">10 Undergraduates</span>
                     </div>
                     <div className="flex items-center justify-between py-1.5 border-b border-[#F7F7F5]">
-                      <span className="text-[#686868]">Activities Documented</span>
+                      <span className="text-[#686868]">Field Activities</span>
                       <span className="font-bold text-[#0D9488] font-mono">8 Core Tasks</span>
                     </div>
                     <div className="flex items-center justify-between py-1.5 border-b border-[#F7F7F5]">

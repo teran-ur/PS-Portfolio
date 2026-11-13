@@ -133,7 +133,7 @@ export default function PersonalSynthesisSection({
             </h3>
           </div>
           <span className="text-xs font-mono text-[#8E8E93]">
-            {synthesis.activityConnections.length} Documented Applications
+            {synthesis.activityConnections.length} Practical Applications
           </span>
         </div>
 

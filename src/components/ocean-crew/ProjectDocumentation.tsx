@@ -20,14 +20,14 @@ export default function ProjectDocumentation() {
           </div>
 
           <h2 className="text-3xl sm:text-5xl md:text-6xl font-display font-bold text-[#171717] tracking-tight">
-            Original Project <br className="hidden sm:inline" />
+            Project Field <br className="hidden sm:inline" />
             <span className="font-serif italic font-normal text-[#0F2C4C]">
-              Documentation Report.
+              Report &amp; Archive.
             </span>
           </h2>
 
           <p className="text-sm sm:text-base text-[#686868] font-sans leading-relaxed">
-            The authentic, unmodified submission document prepared by Ocean Crew for the Professional Skills academic assessment at SLIIT City Uni.
+            The comprehensive submission report prepared by Ocean Crew for the Professional Skills academic assessment at SLIIT City Uni.
           </p>
         </FadeIn>
 
@@ -59,7 +59,7 @@ export default function ProjectDocumentation() {
                 </h3>
 
                 <p className="text-xs sm:text-sm text-[#686868] max-w-xl font-sans leading-relaxed">
-                  Contains all 7 sections: Project Background, 7 Objectives, 8 Field Activities, Project Outcomes, Individual &amp; Total Budget Breakdown, 10 Student Details, 23 Documentary Photographs, and Project Video Access.
+                  Covers project background, 7 core objectives, 8 field activities, outcomes, budget breakdown, team roster, photographic evidence, and video documentation.
                 </p>
 
                 <div className="flex flex-wrap items-center gap-4 text-xs font-mono text-[#8E8E93] pt-2">
@@ -91,7 +91,7 @@ export default function ProjectDocumentation() {
                 className="px-6 py-3.5 rounded-full bg-white hover:bg-[#F7F7F5] border border-[#E5E5E2] hover:border-[#171717] text-[#171717] text-xs font-mono uppercase tracking-widest font-bold inline-flex items-center justify-center space-x-2 transition-colors shadow-subtle"
               >
                 <Download className="w-4 h-4 text-[#0D9488]" />
-                <span>Download Original PDF</span>
+                <span>Download Project Report PDF</span>
               </a>
             </div>
           </div>

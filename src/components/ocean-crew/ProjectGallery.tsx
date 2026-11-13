@@ -86,7 +86,7 @@ export default function ProjectGallery({
           </h2>
 
           <p className="text-sm sm:text-base text-[#686868] font-sans leading-relaxed">
-            All 23 documented photographs extracted directly from Page 6 of the original project report, organized in an editorial documentary gallery showcasing cleaning, feeding, rehabilitation, and peer collaboration.
+            A photographic archive of 23 moments captured during our sanctuary fieldwork, showcasing tank cleaning, feeding, rehabilitation assistance, and peer collaboration.
           </p>
         </FadeIn>
 

@@ -46,7 +46,7 @@ export default function WhatWeAchieved() {
             <div className="flex items-center space-x-2 text-[#0D9488]">
               <Award className="w-5 h-5" />
               <span className="text-xs font-mono uppercase tracking-widest font-bold">
-                Project Documentation Synthesis • Section 2.4
+                Project Outcomes &amp; Impact Synthesis
               </span>
             </div>
 

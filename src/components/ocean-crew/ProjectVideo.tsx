@@ -55,7 +55,7 @@ export default function ProjectVideo() {
                   </div>
                   <div className="space-y-1">
                     <h3 className="text-xl font-display font-bold">
-                      Loading Official Project Video...
+                      Loading Project Video...
                     </h3>
                     <p className="text-xs text-white/70 max-w-sm font-sans">
                       Connecting to Google Drive media stream. If the player is blocked by your browser settings, use the external viewing button below.
@@ -72,7 +72,7 @@ export default function ProjectVideo() {
                   Hosted on Google Drive
                 </span>
                 <p className="text-xs text-[#686868] font-sans">
-                  Official project documentary video preserved in cloud storage.
+                  Documentary video preserved in cloud storage.
                 </p>
               </div>
 
@@ -101,7 +101,7 @@ export default function ProjectVideo() {
                   Scan to Watch on Phone
                 </h3>
                 <p className="text-xs text-[#686868] font-sans">
-                  The official QR code transcribed directly from Page 7 of the project report.
+                  Scan with your mobile camera to launch the video stream instantly.
                 </p>
               </div>
 

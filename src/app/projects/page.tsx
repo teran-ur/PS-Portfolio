@@ -117,7 +117,7 @@ export default function ProjectsPage() {
         </div>
 
         <p className="text-base sm:text-lg text-[#555555] font-sans max-w-3xl leading-relaxed">
-          An authentic catalogue of technologies I work with and four documented software, cloud, and security projects. Below is a transparent breakdown of objectives, my specific involvement, challenges encountered, engineered resolutions, and verifiable proofs.
+          An authentic catalogue of technologies I work with and four software, cloud, and security projects. Below is a transparent breakdown of objectives, my specific involvement, challenges encountered, engineered resolutions, and verifiable proofs.
         </p>
 
         {/* Quick Nav Anchors */}
@@ -170,13 +170,13 @@ export default function ProjectsPage() {
             </h2>
 
             <p className="text-sm sm:text-base text-white/85 font-sans leading-relaxed max-w-2xl">
-              A major community service project conducted by 10 SLIIT City Uni undergraduates at a coastal sea turtle conservation sanctuary in Sri Lanka. Explores 8 documented field activities, 23 authentic photographs, individual &amp; group budget audits, and personal professional reflections.
+              A major community service project conducted by 10 SLIIT City Uni undergraduates at a coastal sea turtle conservation sanctuary in Sri Lanka. Explores 8 hands-on field activities, 23 authentic photographs, individual &amp; group budget audits, and personal professional reflections.
             </p>
 
             <div className="flex flex-wrap items-center gap-6 pt-2 text-xs font-mono text-white/70">
               <div>10 Participants</div>
               <span>•</span>
-              <div>8 Documented Tasks</div>
+              <div>8 Hands-On Tasks</div>
               <span>•</span>
               <div>LKR 30,000 Budget</div>
               <span>•</span>
@@ -215,7 +215,7 @@ export default function ProjectsPage() {
       </section>
 
       {/* =========================================================================
-          SECTION 1: 4 DOCUMENTED PROJECTS (GIVEN PRIMARY PROMINENCE)
+          SECTION 1: 4 TECHNICAL PROJECTS (GIVEN PRIMARY PROMINENCE)
           ========================================================================= */}
       <section id="projects-section" className="space-y-10 scroll-mt-24">
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-4">
@@ -224,7 +224,7 @@ export default function ProjectsPage() {
               Project Portfolio
             </span>
             <h2 className="text-4xl sm:text-5xl font-display font-bold text-[#171717] tracking-tight">
-              Documented Projects.
+              Software &amp; Security Projects.
             </h2>
             <p className="text-base text-[#686868] max-w-2xl leading-relaxed">
               Real projects covering web engineering, VPS infrastructure, e-commerce, mobile concepts, and security vulnerability audits.

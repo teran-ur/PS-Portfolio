@@ -156,7 +156,7 @@ export default function EvidencePage() {
               Applied Development Artefacts &amp; Systems Architecture
             </h3>
             <p className="text-xs sm:text-sm text-[#A5A5AA] max-w-2xl font-sans leading-relaxed">
-              Inspect screenshots, DigitalOcean VPS terminal status, MySQL schema diagrams, mobile wireframes, and Cisco Packet Tracer network topology maps across 5 documented projects.
+              Inspect screenshots, DigitalOcean VPS terminal status, MySQL schema diagrams, mobile wireframes, and Cisco Packet Tracer network topology maps across 4 technical projects.
             </p>
           </div>
 

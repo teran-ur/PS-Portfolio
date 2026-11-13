@@ -512,7 +512,7 @@ export default function HomePage() {
                   Ocean Crew: Turtle Sanctuary
                 </h4>
                 <p className="text-xs text-white/80 leading-relaxed font-sans">
-                  Field community service project dedicated to coastal turtle conservation in Sri Lanka, documenting 8 hands-on activities, 23 photos, and personal reflections.
+                  Field community service project dedicated to coastal turtle conservation in Sri Lanka, featuring 8 hands-on activities, 23 photos, and personal reflections.
                 </p>
                 <div className="pt-1">
                   <Link

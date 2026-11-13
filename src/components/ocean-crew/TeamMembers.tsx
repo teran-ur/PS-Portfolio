@@ -28,7 +28,7 @@ export default function TeamMembers() {
           </h2>
 
           <p className="text-sm sm:text-base text-[#686868] font-sans leading-relaxed">
-            The 10 undergraduate student participants listed in Section 4 of the official project report, collaborating together for our Professional Skills community service submission.
+            The 10 undergraduate student participants collaborating together for our Professional Skills community service initiative.
           </p>
         </FadeIn>
 
@@ -93,7 +93,7 @@ export default function TeamMembers() {
         <div className="p-4 rounded-2xl bg-white border border-[#E5E5E2] text-xs font-mono text-[#8E8E93] flex flex-wrap items-center justify-between gap-2">
           <span className="flex items-center space-x-1.5 text-[#171717]">
             <ShieldCheck className="w-4 h-4 text-[#0D9488]" />
-            <span>Transcribed verbatim from Section 4 (Student Details) of official project report</span>
+            <span>Ocean Crew Project Team • Higher Diploma in Information Technology</span>
           </span>
           <span>10 Registered Students • Feb 2025 Batch</span>
         </div>

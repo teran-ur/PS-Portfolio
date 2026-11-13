@@ -30,14 +30,14 @@ export default function ActivityShowcase({ onSelectPhoto }: { onSelectPhoto?: (s
             </div>
 
             <h2 className="text-3xl sm:text-5xl md:text-6xl font-display font-bold text-[#171717] tracking-tight">
-              Our Documented <br className="hidden sm:inline" />
+              Hands-On <br className="hidden sm:inline" />
               <span className="font-serif italic font-normal text-[#0F2C4C]">
                 Field Activities.
               </span>
             </h2>
 
             <p className="text-sm sm:text-base text-[#686868] font-sans leading-relaxed">
-              Every task documented in Section 2.3 of the official project report, paired with authentic field photography captured on site during the sanctuary visit.
+              Eight hands-on conservation tasks paired with authentic field photography captured on site during our sanctuary visit.
             </p>
           </FadeIn>
 
@@ -110,7 +110,7 @@ export default function ActivityShowcase({ onSelectPhoto }: { onSelectPhoto?: (s
               </div>
 
               <div className="mt-4 pt-3 border-t border-[#E5E5E2] flex items-center justify-between text-[11px] font-mono text-[#8E8E93]">
-                <span>Documented Task</span>
+                <span>Field Activity</span>
                 <span className="text-[#171717] font-semibold flex items-center space-x-1">
                   <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
                   <span>Executed</span>

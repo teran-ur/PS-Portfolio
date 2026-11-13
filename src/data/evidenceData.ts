@@ -120,15 +120,15 @@ export const EVIDENCE_ARTEFACTS: EvidenceArtefact[] = [
   },
   {
     id: "ev-10-ocean-crew-report",
-    title: "Ocean Crew: Turtle Conservation & Community Service Documentation Report",
+    title: "Ocean Crew: Turtle Conservation & Community Service Field Report",
     category: "Documentation",
     chapterReference: "Community Service & Experiential Leadership",
-    description: "Official 7-page field report documenting 8 conservation tasks at a sea turtle sanctuary, full budget audit (LKR 30,000), 10 student roster, and 23 photo artefacts.",
+    description: "Field report documenting 8 conservation tasks at a sea turtle sanctuary, full budget audit (LKR 30,000), 10 student roster, and 23 photographic records.",
     dateCreated: "Semester 2, Fieldwork",
     fileType: "PDF",
     skillsDemonstrated: ["Community Engagement", "Team Collaboration", "Environmental Stewardship", "Civic Responsibility"],
     reflectionSummary: "Practical hands-on community service connecting academic soft skills with wildlife preservation, animal care, and group civic accountability.",
-    placeholderText: "Artefact: Official Ocean Crew Project Documentation PDF & Video Link",
+    placeholderText: "Artefact: Ocean Crew Project Field Report PDF & Video Link",
     actionUrl: "/projects/ocean-crew"
   }
 ];

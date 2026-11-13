@@ -47,7 +47,7 @@ export default function ProjectOverview() {
                 &ldquo;The experience allowed us to understand how even a small contribution of time, effort, and resources can support animal welfare and the wider community.&rdquo;
               </p>
               <span className="text-xs font-mono text-[#686868] block">
-                — Ocean Crew Project Documentation Report, SLIIT City Uni
+                — Ocean Crew Group Reflection, SLIIT City Uni
               </span>
             </div>
           </FadeIn>

@@ -28,7 +28,7 @@ export default function ProjectBudget() {
           </h2>
 
           <p className="text-sm sm:text-base text-[#686868] font-sans leading-relaxed">
-            Complete financial breakdown calculated across the 10 participating undergraduates in accordance with Section 3 of the project report. Every rupee was funded by the student group.
+            Complete financial breakdown calculated across the 10 participating undergraduates. Every rupee was funded directly by the student group.
           </p>
         </FadeIn>
 
@@ -143,9 +143,9 @@ export default function ProjectBudget() {
               <div className="pt-6 border-t border-white/10 text-xs font-mono text-white/60 flex items-center justify-between relative z-10">
                 <span className="flex items-center space-x-1.5 text-white">
                   <CheckCircle2 className="w-4 h-4 text-[#14B8A6]" />
-                  <span>Verified Against Original PDF</span>
+                  <span>100% Student Self-Funded</span>
                 </span>
-                <span className="text-white/40">Section 3.2</span>
+                <span className="text-white/40">SLIIT City Uni</span>
               </div>
             </div>
           </FadeIn>
